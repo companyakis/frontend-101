@@ -1,4 +1,4 @@
-React ve Bootstrap ile yapılmış temel, ama kullanışlı yapıları buraya eklemeye çalışacağım.
+React ile yapılmış temel, ama kullanışlı yapıları buraya eklemeye çalışacağım.
 
 Sıfırdan anlatım burada olmayacak.
 
