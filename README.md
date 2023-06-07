@@ -1,7 +1,5 @@
-React ile yapılmış temel, ama kullanışlı yapıları buraya eklemeye çalışacağım.
+Front-end temel uygulamalar burada olacak. 
 
-Sıfırdan anlatım burada olmayacak.
-
-Az çok konuların bilindiği varsayımıyla, uygulamalar eklenecek.
+En başta, küçük parçalar ve kolay örnekler... İlerleyen süreçte de karmaşık uygulamalar... Adım adım...
 
 Bilim ve us ışığımız olsun.
